@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "219793038613",
+    "project_id": "cafem-5f88c",
+    "storage_bucket": "cafem-5f88c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219793038613:android:7d85449f98880216ad9d1c",
+        "android_client_info": {
+          "package_name": "com.example.cafem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtnsQALwmcW3vVRCe1XWJb53SaMHVyZIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219793038613:android:d43189b5f56487ccad9d1c",
+        "android_client_info": {
+          "package_name": "com.example.cafem2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtnsQALwmcW3vVRCe1XWJb53SaMHVyZIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
